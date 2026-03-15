@@ -43,6 +43,7 @@ tests:
   - package_contents:
       include:
         - pinch.hpp
+        - pinch/asio.hpp
       lib:
         - pinch
 
